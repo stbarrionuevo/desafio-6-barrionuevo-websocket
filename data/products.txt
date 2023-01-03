@@ -1,0 +1,15 @@
+[
+  {  "id": "86e354af-1a45-483b-8cea-8cbae528f5c6",
+    "title": "Calculadora",
+    "price": "345",
+    "thumbnail": "https://cdn4.iconfinder.com/data/icons/business-1221/24/Calculator-512.png"
+    
+  },
+
+  {
+    "id": "391b796a-6c73-4105-bb85-5170ac2f8277",
+    "title": "TV 50\"",
+    "price": "35000",
+    "thumbnail": "https://cdn3.iconfinder.com/data/icons/google-material-design-icons/48/ic_tv_48px-256.png"
+  
+]

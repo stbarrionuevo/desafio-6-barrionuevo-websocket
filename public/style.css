@@ -1,0 +1,16 @@
+.user{
+   
+    color: rgb(16, 25, 209);
+  
+  }
+  
+  .date{
+  
+    color: rgba(165, 42, 42, 0.704);
+  }
+  
+  .mensaje{
+   
+    color: rgb(41, 184, 41);
+    font-style: italic;
+  }
